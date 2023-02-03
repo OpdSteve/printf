@@ -1,0 +1,4 @@
+*.o
+*.swp
+*notas.txt
+.DS_Store
